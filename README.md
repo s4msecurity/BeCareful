@@ -1,5 +1,5 @@
 # BeCareful
-![AdobeStock_204077439-1000x500](https://user-images.githubusercontent.com/81925511/169692197-c58a20ac-39bb-45f2-8948-edd4951ad92a.jpg)
+<img src="https://user-images.githubusercontent.com/81925511/169692197-c58a20ac-39bb-45f2-8948-edd4951ad92a.jpg" width="500" height="375"/>
 <h6>Phishing detection system.</h6>
 What is Be Careful? Version: 1.0 <br>
 The way the browser plugin works: When a site is entered, it checks the HTML plugins in the page, removes the word groups included in the phishing, and determines whether it is the original site with the URL control, and leaves it to the user's consent.<br>
