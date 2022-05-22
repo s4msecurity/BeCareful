@@ -8,7 +8,7 @@ Note: Please post any bugs or vulnerabilities you catch.<br>
 Browser Plugin Installation Run Process:<br>
 Written for Mozilla Firefox.<br>
 <ul>
-  <li>In Mozilla, go to the add-ons area. Url: "<a href="about:debugging#/runtime/this-firefox">about:debugging</a>"</li>
+  <li>In Mozilla, go to the add-ons area. Url: <a href="about:debugging#/runtime/this-firefox">about:debugging</a></li>
   <li>Click the "Load Temprorary Add-on.." button.</li>
   <li>Select the "manifest.json" file under the downloaded folder.</li>
  </ul>
