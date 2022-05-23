@@ -13,7 +13,7 @@ Written for Mozilla Firefox.<br>
   <li>Select the "manifest.json" file under the downloaded folder.</li>
  </ul>
 <hr>
-<h4>Licence</h4>
+<h2>Licence About</h2>
 <p>
 The MIT License (MIT)
 
